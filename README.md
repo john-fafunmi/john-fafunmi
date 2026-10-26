@@ -1,4 +1,4 @@
-# Hi, I'm John 
+# Hi, I'm John 👋
 
 I'm a high school senior preparing for Computer Science in university. I am currently focusing on mastering core software engineering fundamentals, Object-Oriented Programming (OOP), and clean software architecture in Python.
 
