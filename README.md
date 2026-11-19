@@ -1,10 +1,10 @@
 # Hi👋, I'm John Fafunmi
 
-I'm a high school senior preparing for Computer Science in college. I am currently focusing on mastering core software engineering fundamentals, Object-Oriented Programming (OOP), and clean software architecture in Python.
+I'm a high school senior preparing for Computer Science in college. I am currently focusing on mastering core software and data engineering fundamentals.
 
 ### 🛠️ Languages & Tools
-- **Language:** Python
-- **Concepts:** Object-Oriented Programming (OOP), Composition, Data Structures, CLI Application Architecture
+- **Language:** Python, SQL
+- **Concepts:** Object-Oriented Programming (OOP), Composition, Data Structures, CLI Application Architecture, Queries
 - **Tools:** Git, GitHub, VSCode
 
 ### 🚀 Featured Projects
