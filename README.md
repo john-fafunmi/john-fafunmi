@@ -2,7 +2,7 @@
 
 I'm a high school senior preparing for Computer Science in college. I am currently focusing on mastering core software and data engineering fundamentals.
 
-### Goal
+### 🎯Goal
 - To become a data engineer then transition to becoming a machine learning engineer.
 
 ### 🛠️ Languages & Tools
